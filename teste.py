@@ -1,2 +1,2 @@
 print ("Ola, mundo")
-print ("cachorra")
+print ("...")
